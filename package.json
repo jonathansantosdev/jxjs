@@ -11,6 +11,9 @@
     "compile": "npx tsc"
   },
   "devDependencies": {
+    "tslint": "^6.0.0",
+    "tslint-config-airbnb": "^5.11.2",
     "typescript": "^3.8.2"
-  }
+  },
+  "dependencies": {}
 }
