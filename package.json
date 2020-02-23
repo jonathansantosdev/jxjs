@@ -6,6 +6,10 @@
   "repository": "https://github.com/jonathansantosdev/jxjs.git",
   "author": "Jonathan Santos <brjs.santos@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "watch": "npx tsc -w",
+    "compile": "npx tsc"
+  },
   "devDependencies": {
     "typescript": "^3.8.2"
   }
